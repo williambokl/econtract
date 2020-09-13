@@ -48,7 +48,6 @@ export default function TeamSection() {
               <CardBody>
                 <p className={classes.description}>
                 André Matos, Bacharel em Administração, trabalha ‘’, fazendo ‘’. 
-                Veja sua página no <a href="https://www.linkedin.com/in/contatoandrematos/">Linkedin</a> 
                 </p>
               </CardBody>
               <CardFooter className={classes.justifyCenter}>
@@ -57,22 +56,11 @@ export default function TeamSection() {
                   color="transparent"
                   className={classes.margin5}
                 >
-                  <i className={classes.socials + " fab fa-twitter"} />
+                  <a href="https://www.linkedin.com/in/contatoandrematos/">
+                   <i className={classes.socials + " fab fa-linkedin"} />
+                  </a>
                 </Button>
-                <Button
-                  justIcon
-                  color="transparent"
-                  className={classes.margin5}
-                >
-                  <i className={classes.socials + " fab fa-instagram"} />
-                </Button>
-                <Button
-                  justIcon
-                  color="transparent"
-                  className={classes.margin5}
-                >
-                  <i className={classes.socials + " fab fa-facebook"} />
-                </Button>
+                
               </CardFooter>
             </Card>
           </GridItem>
@@ -89,7 +77,7 @@ export default function TeamSection() {
               <CardBody>
                 <p className={classes.description}>
                   Lutiano Severo, Bacharel em Administração, trabalha ‘’, fazendo ‘’. 
-                  Veja sua página no <a href="https://www.linkedin.com/in/lutiano-severo/">Linkedin</a> 
+                  
                 </p>
               </CardBody>
               <CardFooter className={classes.justifyCenter}>
@@ -98,14 +86,9 @@ export default function TeamSection() {
                   color="transparent"
                   className={classes.margin5}
                 >
-                  <i className={classes.socials + " fab fa-twitter"} />
-                </Button>
-                <Button
-                  justIcon
-                  color="transparent"
-                  className={classes.margin5}
-                >
-                  <i className={classes.socials + " fab fa-linkedin"} />
+                  <a href="https://www.linkedin.com/in/lutiano-severo/">
+                   <i className={classes.socials + " fab fa-linkedin"} />
+                  </a>
                 </Button>
               </CardFooter>
             </Card>
@@ -123,7 +106,7 @@ export default function TeamSection() {
               <CardBody>
                 <p className={classes.description}>
                 Marcos Padilha, Bacharel em ‘’, trabalha ‘’, fazendo ‘’. 
-                Veja sua página no <a href="https://www.linkedin.com/in/marcospadilha92/">Linkedin</a> 
+                 
                 </p>
               </CardBody>
               <CardFooter className={classes.justifyCenter}>
@@ -132,21 +115,9 @@ export default function TeamSection() {
                   color="transparent"
                   className={classes.margin5}
                 >
-                  <i className={classes.socials + " fab fa-twitter"} />
-                </Button>
-                <Button
-                  justIcon
-                  color="transparent"
-                  className={classes.margin5}
-                >
-                  <i className={classes.socials + " fab fa-instagram"} />
-                </Button>
-                <Button
-                  justIcon
-                  color="transparent"
-                  className={classes.margin5}
-                >
-                  <i className={classes.socials + " fab fa-facebook"} />
+                  <a href="https://www.linkedin.com/in/marcospadilha92/">
+                    <i className={classes.socials + " fab fa-linkedin"} />
+                  </a>
                 </Button>
               </CardFooter>
             </Card>
@@ -164,8 +135,7 @@ export default function TeamSection() {
               <CardBody>
                 <p className={classes.description}>
                 William Bitencourt, Bacharel em Design, trabalha à 5 anos na área de Tecnologia, 
-                com foco em Design, criando soluções para o mercado de Rádio. Veja sua página no 
-                <a href="https://www.linkedin.com/in/william-bitencourt-90178012a/"> Linkedin</a> 
+                com foco em Design, criando soluções para o mercado de Rádio.  
                 </p>
               </CardBody>
               <CardFooter className={classes.justifyCenter}>
@@ -174,21 +144,10 @@ export default function TeamSection() {
                   color="transparent"
                   className={classes.margin5}
                 >
-                  <i className={classes.socials + " fab fa-twitter"} />
-                </Button>
-                <Button
-                  justIcon
-                  color="transparent"
-                  className={classes.margin5}
-                >
-                  <i className={classes.socials + " fab fa-instagram"} />
-                </Button>
-                <Button
-                  justIcon
-                  color="transparent"
-                  className={classes.margin5}
-                >
-                  <i className={classes.socials + " fab fa-facebook"} />
+                  <a href="https://www.linkedin.com/in/william-bitencourt-90178012a/">
+                    <i className={classes.socials + " fab fa-linkedin"} />
+                  </a>
+                  
                 </Button>
               </CardFooter>
             </Card>

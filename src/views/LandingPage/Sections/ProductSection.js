@@ -24,7 +24,7 @@ export default function ProductSection() {
         <GridItem xs={12} sm={12} md={8}>
           <h2 className={classes.title}>Vamos falar de produto</h2>
           <h5 className={classes.description}>
-            O layout do nosso software busca simplificar a interação do usuário, mantendo acessível o que há de mais importante para as suas rotinas administrativas. Os atributos estão disponíveis na ferramenta de acordo com o plano mais adequado à necessidade da sua empresa. Navegue pelas funções abaixo e entenda.
+          Quem procura por uma ferramenta que proporcione os melhores recursos para gestão dos seus contratos com layout simplificado, irá encontrar no EContract. A marca que quer se tornar referencia no segmento, apoiando seus clientes como canal para validação de dados, controle de documentos (futuramente: plataforma para analise de KPIs) e integração com tecnologias para smart contract. 
           </h5>
         </GridItem>
       </GridContainer>
@@ -32,8 +32,8 @@ export default function ProductSection() {
         <GridContainer>
           <GridItem xs={12} sm={12} md={4}>
             <InfoArea
-              title="Gestor de Contratos"
-              description="Divide details about your product or agency work into parts. Write a few lines about each one. A paragraph describing a feature will be enough."
+              title="Gestão de Contratos"
+              description="Melhore o controle sobre os contratos da sua empresa com seus parceiros. Nossos recursos foram pensados com o objetivo de ajudar em buscas inteligentes, automação de processos e gerar relatórios ricos em dados para tomada de decisão."
               icon={Assignment}
               iconColor="info"
               vertical
@@ -42,7 +42,7 @@ export default function ProductSection() {
           <GridItem xs={12} sm={12} md={4}>
             <InfoArea
               title="Assinatura Digital"
-              description="Divide details about your product or agency work into parts. Write a few lines about each one. A paragraph describing a feature will be enough."
+              description="As nossas ferramentas de assinatura digital viabilizem a conclusão de acordos de forma ágil, segura e auditável. Oferecemos a possibilidade de nossos clientes rastrearem seus contratos para otimizar suas negociações."
               icon={Fingerprint}
               iconColor="success"
               vertical
@@ -51,7 +51,7 @@ export default function ProductSection() {
           <GridItem xs={12} sm={12} md={4}>
             <InfoArea
               title="Smart Contract"
-              description="Divide details about your product or agency work into parts. Write a few lines about each one. A paragraph describing a feature will be enough."
+              description="Inove a validação dos seus contratos de forma segura e com suporte de uma empresa especializada. Tenha um software para contratos que oferece integração com a tecnologia blockchain, e saia na frente nessa revolução digital."
               icon={Widgets}
               iconColor="danger"
               vertical
