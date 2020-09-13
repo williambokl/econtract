@@ -47,10 +47,8 @@ export default function TeamSection() {
               </h4>
               <CardBody>
                 <p className={classes.description}>
-                  You can write here details about one of your team members. You
-                  can give more details about what they do. Feel free to add
-                  some <a href="#pablo">links</a> for people to be able to
-                  follow them outside the site.
+                André Matos, Bacharel em Administração, trabalha ‘’, fazendo ‘’. 
+                Veja sua página no <a href="https://www.linkedin.com/in/contatoandrematos/">Linkedin</a> 
                 </p>
               </CardBody>
               <CardFooter className={classes.justifyCenter}>
@@ -90,10 +88,8 @@ export default function TeamSection() {
               </h4>
               <CardBody>
                 <p className={classes.description}>
-                  You can write here details about one of your team members. You
-                  can give more details about what they do. Feel free to add
-                  some <a href="#pablo">links</a> for people to be able to
-                  follow them outside the site.
+                  Lutiano Severo, Bacharel em Administração, trabalha ‘’, fazendo ‘’. 
+                  Veja sua página no <a href="https://www.linkedin.com/in/lutiano-severo/">Linkedin</a> 
                 </p>
               </CardBody>
               <CardFooter className={classes.justifyCenter}>
@@ -126,10 +122,8 @@ export default function TeamSection() {
               </h4>
               <CardBody>
                 <p className={classes.description}>
-                  You can write here details about one of your team members. You
-                  can give more details about what they do. Feel free to add
-                  some <a href="#pablo">links</a> for people to be able to
-                  follow them outside the site.
+                Marcos Padilha, Bacharel em ‘’, trabalha ‘’, fazendo ‘’. 
+                Veja sua página no <a href="https://www.linkedin.com/in/marcospadilha92/">Linkedin</a> 
                 </p>
               </CardBody>
               <CardFooter className={classes.justifyCenter}>
@@ -169,10 +163,9 @@ export default function TeamSection() {
               </h4>
               <CardBody>
                 <p className={classes.description}>
-                  You can write here details about one of your team members. You
-                  can give more details about what they do. Feel free to add
-                  some <a href="#pablo">links</a> for people to be able to
-                  follow them outside the site.
+                William Bitencourt, Bacharel em Design, trabalha à 5 anos na área de Tecnologia, 
+                com foco em Design, criando soluções para o mercado de Rádio. Veja sua página no 
+                <a href="https://www.linkedin.com/in/william-bitencourt-90178012a/"> Linkedin</a> 
                 </p>
               </CardBody>
               <CardFooter className={classes.justifyCenter}>
